@@ -1603,7 +1603,7 @@
 
       this.$menu.css({
         top: pos.top + pos.height
-      , left: pos.left
+      , right: pos.left - this.$element.outerWidth()
       })
 
       this.$menu.show()
