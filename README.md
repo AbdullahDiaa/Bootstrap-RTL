@@ -7,4 +7,5 @@ Usage
 -----
 
 Replace bootstrap original CSS with RTL version : 
-	bootstrap.rtl.css AND bootstrap-responsive.rtl.css
+
+bootstrap*.rtl*.css AND bootstrap-responsive*.rtl*.css
